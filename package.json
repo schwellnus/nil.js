@@ -1,0 +1,21 @@
+{
+  "name": "nil.js",
+  "version": "0.0.1",
+  "description": "lightweight react alternative",
+  "main": "nil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lightweight",
+    "explicit",
+    "endlessly",
+    "scalable",
+    "no",
+    "license",
+    "almost",
+    "free"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
